@@ -1,5 +1,5 @@
 # nagios_scripts
-nagios用スクリプト
+nagios用スクリプト。
 
 
 ### check_cert.sh
