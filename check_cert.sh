@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # SSL CertFile Expiredate Chechk Script For Nagios
 # Created by koitatu(2015/09/25)
 
